@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Gabriel Pacheco ✋. Desenvolvedor Front End e aluno em Python.🤓
 
-- Curso Desenvolvimento Full stack pela Ebac 
+- Curso Desenvolvedor Full Stack Python pela Escola Britanica de Artes Criativas
 - Sempre buscando me desenvolver como profissional
 - Idiomas: Português/Inglês/Espanhol
 
